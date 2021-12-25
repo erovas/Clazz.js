@@ -1,6 +1,10 @@
 # Clazz.js
 Small library to create classes without using class syntax.
 
+## Compatibility
+
+For internet explorer 11 or higher.
+
 ## Example
 
 ``` html
